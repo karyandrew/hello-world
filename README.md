@@ -3,6 +3,7 @@ This is my test repo.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Oh wow I made an edit.
 =======
 Whoops I edited master.
@@ -12,3 +13,6 @@ Now let me commit.
 Whoops I edited master.
 Now let me commit.
 >>>>>>> origin/readme-edits
+=======
+Oh wow I made an edit.
+>>>>>>> master
