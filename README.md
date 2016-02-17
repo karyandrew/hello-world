@@ -2,8 +2,13 @@
 This is my test repo.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Oh wow I made an edit.
 =======
 Whoops I edited master.
 Now let me commit.
 >>>>>>> origin/karyandrew-patch-1
+=======
+Whoops I edited master.
+Now let me commit.
+>>>>>>> origin/readme-edits
